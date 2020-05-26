@@ -43,4 +43,7 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
 THE SOFTWARE.
 
-This GUI , well just use it. i hope it helps.
+
+This GUI located @ https://github.com/Nam-K/FlexASIO_ConfigGUI
+well just keep this file along with it.
+i hope it helps.
