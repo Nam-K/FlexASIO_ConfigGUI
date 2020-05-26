@@ -1,0 +1,10 @@
+C:\Users\Nam\source\repos\FlexASIO_GUI\bin\x64\Debug\FlexASIO_GUI.exe.config
+C:\Users\Nam\source\repos\FlexASIO_GUI\bin\x64\Debug\FlexASIO_GUI.exe
+C:\Users\Nam\source\repos\FlexASIO_GUI\bin\x64\Debug\FlexASIO_GUI.pdb
+C:\Users\Nam\source\repos\FlexASIO_GUI\obj\x64\Debug\FlexASIO_GUI.csprojAssemblyReference.cache
+C:\Users\Nam\source\repos\FlexASIO_GUI\obj\x64\Debug\FlexASIO_GUI.Form1.resources
+C:\Users\Nam\source\repos\FlexASIO_GUI\obj\x64\Debug\FlexASIO_GUI.Properties.Resources.resources
+C:\Users\Nam\source\repos\FlexASIO_GUI\obj\x64\Debug\FlexASIO_GUI.csproj.GenerateResource.cache
+C:\Users\Nam\source\repos\FlexASIO_GUI\obj\x64\Debug\FlexASIO_GUI.csproj.CoreCompileInputs.cache
+C:\Users\Nam\source\repos\FlexASIO_GUI\obj\x64\Debug\FlexASIO_GUI.exe
+C:\Users\Nam\source\repos\FlexASIO_GUI\obj\x64\Debug\FlexASIO_GUI.pdb

@@ -1,0 +1,4 @@
+C:\Users\Nam\source\repos\FlexASIO_GUI\obj\Debug\FlexASIO_GUI.csprojResolveAssemblyReference.cache
+C:\Users\Nam\source\repos\FlexASIO_GUI\obj\Debug\FlexASIO_GUI.Form1.resources
+C:\Users\Nam\source\repos\FlexASIO_GUI\obj\Debug\FlexASIO_GUI.Properties.Resources.resources
+C:\Users\Nam\source\repos\FlexASIO_GUI\obj\Debug\FlexASIO_GUI.csproj.GenerateResource.Cache
